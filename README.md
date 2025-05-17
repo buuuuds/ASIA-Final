@@ -2,6 +2,21 @@
 
 A simple RESTful API for managing blog posts with full CRUD functionality, JWT-based authentication, and rate limiting. The API is built with Node.js and Express, and uses a relational database (MySQL, PostgreSQL, or MariaDB) for persistent storage. Tested using Postman.
 
+
+## 📺 Video Instructions
+
+Watch the full demo and testing instructions here:  
+🎥 [Click to Watch the Video](https://drive.google.com/drive/u/0/folders/14KClqCKwu0727jxh6sEBLWJnJLr9hNMi)
+
+> The video includes:
+> - Registering a user
+> - Logging in and receiving a token
+> - Creating a blog post
+> - Retrieving all posts
+> - Getting a single post by ID
+> - Updating a post
+> - Deleting a post
+
 ---
 
 ## 🔧 Features
