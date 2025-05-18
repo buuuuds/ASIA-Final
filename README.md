@@ -6,7 +6,7 @@ A simple RESTful API for managing blog posts with full CRUD functionality, JWT-b
 ## 📺 Video Instructions
 
 Watch the full demo and testing instructions here:  
-🎥 [Click to Watch the Video](https://drive.google.com/drive/u/0/folders/14KClqCKwu0727jxh6sEBLWJnJLr9hNMi)
+🎥 [Click to Watch the Video]([https://drive.google.com/drive/u/0/folders/14KClqCKwu0727jxh6sEBLWJnJLr9hNMi](https://drive.google.com/file/d/12LSwPbvimeyoiJRHKVoj7N9MQxsSBd1x/view?usp=sharing))
 
 > The video includes:
 > - Registering a user
